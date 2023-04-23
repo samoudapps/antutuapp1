@@ -1,1 +1,1 @@
-com.inzgapps2store.antutu_benchmark_app1
+com.inzgapps2store.antututipsbenchmarkguide_app1
